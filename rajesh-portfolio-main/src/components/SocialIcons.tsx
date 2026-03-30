@@ -1,8 +1,8 @@
 import {
   FaGithub,
   FaInstagram,
-  FaLinkedinIn,
-  FaXTwitter,
+  FaWhatsapp,
+  FaPhone,
 } from "react-icons/fa6";
 import "./styles/SocialIcons.css";
 import { TbNotes } from "react-icons/tb";
@@ -60,22 +60,22 @@ const SocialIcons = () => {
     <div className="icons-section">
       <div className="social-icons" data-cursor="icons" id="social">
         <span>
-          <a href="https://github.com/rajeshchityal" target="_blank">
+          <a href="https://github.com/rajveerkol" target="_blank">
             <FaGithub />
           </a>
         </span>
         <span>
-          <a href="https://www.linkedin.com/in/rajeshchityal" target="_blank">
-            <FaLinkedinIn />
+          <a href="https://wa.me/917489339907" target="_blank">
+            <FaWhatsapp />
           </a>
         </span>
         <span>
-          <a href="https://x.com/rajeshchityal" target="_blank">
-            <FaXTwitter />
+          <a href="tel:+917489339907">
+            <FaPhone />
           </a>
         </span>
         <span>
-          <a href="https://www.instagram.com/rajeshchityal" target="_blank">
+          <a href="https://www.instagram.com/rajveer.0711" target="_blank">
             <FaInstagram />
           </a>
         </span>
