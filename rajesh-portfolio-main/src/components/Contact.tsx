@@ -17,7 +17,7 @@ const Contact = () => {
             <h4>Phone</h4>
             <p>7489339907</p>
             <h4>Education</h4>
-            <p>Class 8th, Modern Public School</p>
+            <p>Class 9th</p>
           </div>
           <div className="contact-box">
             <h4>Social</h4>
